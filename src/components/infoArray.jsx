@@ -1,8 +1,8 @@
-import picDan from "../../../images/image-daniel.jpg";
-import picJon from "../../../images/image-jonathan.jpg";
-import picJea from "../../../images/image-jeanette.jpg";
-import picPat from "../../../images/image-patrick.jpg";
-import picKir from "../../../images/image-kira.jpg";
+import picDan from "../assets/images/image-daniel.jpg";
+import picJon from "../assets/images/image-jonathan.jpg";
+import picJea from "../assets/images/image-jeanette.jpg";
+import picPat from "../assets/images/image-patrick.jpg";
+import picKir from "../assets/images/image-kira.jpg";
 const infoArray = [
   {
     id: "profile1",
